@@ -8,5 +8,4 @@
 node_modules
 
 # Destination
-dist
-.cache
+public
