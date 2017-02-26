@@ -62,4 +62,4 @@ let commonConfig = {
   ]
 };
 
-export {commonConfig};
+export default commonConfig;

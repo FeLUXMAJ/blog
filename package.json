@@ -3,7 +3,7 @@
   "version": "1.6.0",
   "license": "MIT",
   "scripts": {
-    "build": "rimraf public && webpack --config config/webpack/webpack.prod.js --profile --bail",
+    "build": "rimraf public && webpack --config config/webpack/webpack.prod.babel.js --profile --bail",
     "start": "webpack-dev-server --inline --progress --port 4200 --host 0.0.0.0"
   },
   "private": true,

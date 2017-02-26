@@ -1,8 +1,8 @@
 /** Created by CUIJA on 02-14-2017.*/
 import * as os from "os";
-import * as webpack from "webpack";
+import webpack from "webpack";
 import * as helpers from "./../helpers";
-import {commonConfig} from "./webpack.common.js";
+import commonConfig from "./webpack.common.babel";
 import webpackMerge from "webpack-merge";
 import ExtractTextPlugin from "extract-text-webpack-plugin";
 
