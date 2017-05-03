@@ -1,11 +1,7 @@
-# Created by .ignore support plugin (hsz.mobi)
-
+# Node
+node_modules
 
 # IDEA
 .idea
+*.iml
 
-# Node.js
-node_modules
-
-# Destination
-public
